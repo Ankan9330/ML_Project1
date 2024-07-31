@@ -7,3 +7,4 @@ Overview of the Project :
 LINEAR REGRESSION ON HOUSING PRICES
 
 
+![image](https://github.com/user-attachments/assets/1b5a286e-7187-48a5-ab05-eb6d062704c0)
